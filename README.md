@@ -1,4 +1,6 @@
-### Hi there 👋
+### that's a p cool feature
+
+Ight so I'm too lazy to write everything I already did before so have my carrd http://bitcrack.carrd.co/
 
 <!--
 **BitCrack/BitCrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
