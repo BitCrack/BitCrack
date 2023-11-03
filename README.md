@@ -11,8 +11,10 @@ Also through my school years I gained a lot of experience with Microsoft's Activ
 <br>
 If you wish to know more about me, wanna know where to get in contact - check my website [here](https://bitcrack.xyz)!
 ## What do I have experience in?
-Everything is ordered by how comfortable I feel using it or getting back into.
+<details>
+  <summary><i>Open me!</i></summary><br>
 
+*Everything is ordered by how comfortable I feel using it or getting back into.*
 ### 🖥️ Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br>
@@ -86,3 +88,5 @@ Everything is ordered by how comfortable I feel using it or getting back into.
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)<br>
 *Want to learn*<br>
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
+</details>
